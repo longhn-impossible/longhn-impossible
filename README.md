@@ -1,10 +1,5 @@
 ## Hi and hola, I'm Hoang Long, or Dino for short. 👋
 
-<!--
-**longhn-impossible/longhn-impossible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am currently a first-year student at Ho Chi Minh City University of Technology. My career goal now is to become a data scientist.
 - 🌱 I’m currently learning C++ , Python , Css and Html
 - 👯 I’m looking to collaborate on creating a team participating in AI analysis competitions. 
