@@ -1,17 +1,7 @@
 ## Hola, I'm Long, or Dino. 👋
-
-- 🔭 I am currently a first-year student at Ho Chi Minh City University of Technology. My career goal now is to become a data scientist.
-- 🌱 I’m currently learning C++ , Python , Css and Html
-- 👯 I’m looking to collaborate on creating a team participating in AI analysis competitions. 
-- 🤔 I’m looking for help with everything 
-- 💬 Ask me about nothing 
-- 📫 How to reach me: contact me through GitHub || Linkedin: www.linkedin.com/in/long-ngô-hoàng-338a793a0
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I can solve a Rubik's cube in under 1 and a half minutes.
-
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ng%C3%B4+Ho%C3%A0ng+Long" alt="Typing SVG" /></a>
 
 
 <!-- Social icons section -->
@@ -28,6 +18,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
+
+
+- 🔭 I am currently a first-year student at Ho Chi Minh City University of Technology. My career goal now is to become a data scientist.
+- 🌱 I’m currently learning C++ , Python , Css and Html
+- 👯 I’m looking to collaborate on creating a team participating in AI analysis competitions. 
+- 🤔 I’m looking for help with everything 
+- 💬 Ask me about nothing 
+- 📫 How to reach me: contact me through GitHub || Linkedin: www.linkedin.com/in/long-ngô-hoàng-338a793a0
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I can solve a Rubik's cube in under 1 and a half minutes.
+
+
 
 
 <!-- Information myself -->
