@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <!-- <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="[https://i.imgur.com/PpLeD3K.png](https://share.gemini.google/mfDaYzdUDUtl)"/></a>
+  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/longhn-impossible/longhn-impossible/issues/1"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
