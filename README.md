@@ -1,4 +1,4 @@
-## Hi and hola, I'm Hoang Long, or Dino for short. 👋
+## Hola, I'm Hoang Long, or Dino for short. 👋
 
 - 🔭 I am currently a first-year student at Ho Chi Minh City University of Technology. My career goal now is to become a data scientist.
 - 🌱 I’m currently learning C++ , Python , Css and Html
