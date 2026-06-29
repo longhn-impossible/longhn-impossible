@@ -105,32 +105,3 @@ and actively contributing to open-source projects for the community.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-<h3>⚡ Recent GitHub Activity</h3>
-
- <a href="https://commits.top/vietnam.html">
-  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
-  <a href="https://commits.top/vietnam_private.html">
-  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
-
-  <p><a href="hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a></p>
-
-
-<div align="center">
-<a href="https://github.com/hoangtien2k3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangtien2k3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoangtien2k3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangtien2k3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoangtien2k3&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=2077" height="180em" />
-</div>
-
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vineet221713.io)
-
-</details>  
-Beta
-0 / 10
-used queries
-1
