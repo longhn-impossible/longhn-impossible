@@ -6,9 +6,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/PxPaDVrrE" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/PxPaDVrrE" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" title="My discord" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://private-user-images.githubusercontent.com/143984741/614387470-e6691b8f-7ca3-4cb6-a102-61fcbc3bb789.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI3MTI4MjUsIm5iZiI6MTc4MjcxMjUyNSwicGF0aCI6Ii8xNDM5ODQ3NDEvNjE0Mzg3NDcwLWU2NjkxYjhmLTdjYTMtNGNiNi1hMTAyLTYxZmNiYzNiYjc4OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYyOVQwNTU1MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MjIwNmJjMTNkN2E1NzA1NmM4OTk0ZGM2MTcyYjgxMWJkODZkZGZhNWY3ZjAyMGNkODE3OTA2ODNmOTk3ZTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.uTjzQ8xNY8DuiOOi5VE5yGvGYAdvEYR6nmA9m7dhRrE"/></a>
+  <a href="https://www.linkedin.com/in/long-ng%C3%B4-ho%C3%A0ng-338a793a0/"><img width="32px" alt="Ko-fi" title="My linkedin" src="https://private-user-images.githubusercontent.com/143984741/614387470-e6691b8f-7ca3-4cb6-a102-61fcbc3bb789.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI3MTI4MjUsIm5iZiI6MTc4MjcxMjUyNSwicGF0aCI6Ii8xNDM5ODQ3NDEvNjE0Mzg3NDcwLWU2NjkxYjhmLTdjYTMtNGNiNi1hMTAyLTYxZmNiYzNiYjc4OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYyOVQwNTU1MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MjIwNmJjMTNkN2E1NzA1NmM4OTk0ZGM2MTcyYjgxMWJkODZkZGZhNWY3ZjAyMGNkODE3OTA2ODNmOTk3ZTZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.uTjzQ8xNY8DuiOOi5VE5yGvGYAdvEYR6nmA9m7dhRrE"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
