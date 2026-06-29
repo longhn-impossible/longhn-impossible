@@ -1,4 +1,4 @@
-## Hola, I'm Long, or Dino. 👋
+## 😄 Hola, I'm Long, or Dino. 
 <!-- Title The Full Name -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ng%C3%B4+Ho%C3%A0ng+Long" alt="Typing SVG" /></a>
@@ -6,9 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/hoangtien_2k3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="[https://discord.gg/cFAkCXVQ](https://discord.com/channels/@me)" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -23,11 +21,8 @@
 
 - 🔭 I am currently a first-year student at Ho Chi Minh City University of Technology. My career goal now is to become a data scientist.
 - 🌱 I’m currently learning C++ , Python , Css and Html
-- 👯 I’m looking to collaborate on creating a team participating in AI analysis competitions. 
 - 🤔 I’m looking for help with everything 
 - 💬 Ask me about nothing 
-- 📫 How to reach me: contact me through GitHub || Linkedin: www.linkedin.com/in/long-ngô-hoàng-338a793a0
-- 😄 Pronouns: he/his
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 and a half minutes.
 
 
