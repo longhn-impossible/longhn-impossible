@@ -33,38 +33,17 @@
 
   <div align="left">
 
-I am passionate about technology. I enjoy learning, exploring new knowledge, and actively contributing to open-source projects for the community. 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
-</picture>
-
   </div>
 </div>
 
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain.svg" alt="numpy" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/reactivex.svg" alt="RxJava" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-plain.svg" alt="Matlb" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg" alt="Opencv" width="40" height="40"/> 
 </p>
 
 
