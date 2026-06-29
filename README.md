@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://discord.gg/PxPaDVrrE" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/longhn-impossible/longhn-impossible/issues/1"/></a>
+  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://private-user-images.githubusercontent.com/143984741/614380995-ac1bbc8d-8faf-400b-b442-c2ccc1d8118f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI3MTIyMzEsIm5iZiI6MTc4MjcxMTkzMSwicGF0aCI6Ii8xNDM5ODQ3NDEvNjE0MzgwOTk1LWFjMWJiYzhkLThmYWYtNDAwYi1iNDQyLWMyY2NjMWQ4MTE4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYyOVQwNTQ1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNTJlMmU3Nzk3OWVkYTIzYTI0NmRiMTE1MzdiNGQyYmFhMmIwYzgxZGIwMWM5MDQ0MDFjYmQwZTAyMDY1YTc0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.fT9v27UwEmbWt3Tscv30-OWla-4YQygVc_xPuw8Y5fo"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
