@@ -8,4 +8,3 @@
 - 📫 How to reach me: contact me through GitHub or Gmail: ngohoanglong1201@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 1 and a half minutes kaka.
--->
