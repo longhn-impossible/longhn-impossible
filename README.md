@@ -77,17 +77,6 @@ and actively contributing to open-source projects for the community.
   
 </p>
 
-<h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/longhn-impossible/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="longhn-impossible's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3&theme=monokai-metallian&hide_border=true"/>
-      <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="hoangtien2k3" width="200px">
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
-  </p>
-
 <h3>💻💬 GitHub Profile Stats</h3>
 
   <div align="center">
@@ -116,15 +105,6 @@ and actively contributing to open-source projects for the community.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-
-<a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
-or skill level.
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h3>⚡ Recent GitHub Activity</h3>
 
