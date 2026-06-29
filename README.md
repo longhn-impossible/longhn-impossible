@@ -26,13 +26,6 @@
 <!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
-<div>
-  <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
-  </a>
-
-  <div align="left">
-
 I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
 and actively contributing to open-source projects for the community.
 
@@ -58,18 +51,13 @@ and actively contributing to open-source projects for the community.
 
 
 <!-- More Information Details Myself -->
-<details>
-<summary> More about me, backend dev 🔥
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
-</summary> 
+
 
 <p align="center">
 
 </a>
 
 ![Header](img/header_.png)
-
-![TIEN2K3](gitartwork.svg)
 
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
